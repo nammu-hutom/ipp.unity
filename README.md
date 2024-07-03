@@ -33,7 +33,7 @@ v1.0.0 - Add Package
 
 Getting started
 ---
-asset package(`ipp.unity.*.*.*.unitypackage`) available in [ipp.unity/releases](https://github.com/mod157/ipp.unity/releases) page.
+asset package(`ipp.unity.*.*.*.unitypackage`) available in [ipp.unity/releases](https://github.com/nammu-hutom/ipp.unity/releases) page.
 ![image](docs/image/inputPad_Inspector.png)
 | Title | Name | Context | 
 | --- | --- | --- |
