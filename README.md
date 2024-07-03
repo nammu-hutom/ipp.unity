@@ -55,7 +55,7 @@ Download
 ---
 ####  Install via git URL
 Package Manager에 다음 URL을 추가할 수 있습니다.
-`https://github.com/mod157/ipp.unity.git?path=src/Assets/Plugins/InputPatternPanel/`
+`https://github.com/nammu-hutom/ipp.unity.git?path=src/Assets/Plugins/InputPatternPanel/`
 
 #### UPM package
 https://openupm.com/packages/pe.nammu.ipp/
